@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:title="View Contact"
+        android:id="@+id/menuView"
+        android:icon="@android:drawable/ic_menu_view"
+        app:showAsAction="always"
+        />
+    <item android:title="Call"
+        android:id="@+id/menuCall"
+        android:icon="@android:drawable/ic_menu_call"
+        app:showAsAction="always" />
+</menu>
